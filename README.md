@@ -1,9 +1,16 @@
-Backend -  setup - i installed cors, express
-how to start: in terminal write: npm install and then npm start
+Backend:
+
+setup - i installed cors, express
+
+how to start: in terminal, write: npm install and then npm start
 
 
-fronted: i installed axios
-how to start: in terminal  write: npm install and then npm start
+Fronted:
+
+i installed axios
+
+how to start: in terminal, write: npm install and then npm start
+
 
 for run both open two terminal - for backend go to Folder Backend and for Frontend go to folder frontend
 
